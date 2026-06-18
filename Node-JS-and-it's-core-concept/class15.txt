@@ -1,0 +1,10 @@
+What is node js and why use it for Server side Development ? 
+
+1.What is javascript ?
+2. What is node js ?
+ ==> is it a library or it's a framework ???
+
+Browser language ==> HTML CSS and js
+
+node js -> JS runtime environment
+
