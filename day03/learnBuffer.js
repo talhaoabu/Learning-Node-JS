@@ -22,9 +22,9 @@
 // console.log(buffer.toString());
 
 
-const source = Buffer.from("NodeJS");
-const destination = Buffer.alloc(10);
+// const source = Buffer.from("NodeJS");
+// const destination = Buffer.alloc(10);
 
-source.copy(destination);
+// source.copy(destination);
 
-console.log(destination.toString());
+// console.log(destination.toString());
