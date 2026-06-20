@@ -1,0 +1,6 @@
+Day 01:
+On Day 1, I learned the fundamentals of Node.js, including what Node.js is, how it differs from browser JavaScript, modules, npm and package.json, the File System (FS) module, blocking vs. non-blocking execution, and an introduction to the Node.js event loop and thread pool.
+
+Day 02:
+On Day 2, I focused on Node.js events and EventEmitters. I learned how to create and handle custom events, use emit() and on(), implement error events, and built a simple real-time chat application using custom events to understand event-driven programming.
+
